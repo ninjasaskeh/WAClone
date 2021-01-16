@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627942018231",
+    "firebase_url": "https://wacloneapp-46391.firebaseio.com",
+    "project_id": "wacloneapp-46391",
+    "storage_bucket": "wacloneapp-46391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627942018231:android:2f81f3b608a2cb44fe5132",
+        "android_client_info": {
+          "package_name": "com.example.wacloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627942018231-pbktuel9bjv8bki5l555ogv7c20jhro6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wacloneapp",
+            "certificate_hash": "44b2828e20e2e95dedd26cd3a07c5c39b7ce50d4"
+          }
+        },
+        {
+          "client_id": "627942018231-g1pcaurmn7me10b4jlaomv40dhnj7521.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrSFOMw9e_fr4IkecJlAkStxqt23TxXIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627942018231-g1pcaurmn7me10b4jlaomv40dhnj7521.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
